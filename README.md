@@ -48,6 +48,6 @@ Weapons to use based on final circle and distance. Weapons such as the sniper ri
 Popularity of weapons based on the map you’re randomly given
 Areas to drop given smaller clusters
 
-## Video:
+## Video: https://www.youtube.com/watch?v=IZa3OVGoPAs&feature=youtu.be 
 
 ## Paper:
