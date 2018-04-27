@@ -2,7 +2,8 @@
 
 ## Team Members: Phi Trang, Jacob Tran, Neil Nguyen
 
-## Description: A complex problem that players run into
+## Description: 
+A complex problem that players run into
 before every game is where to eject from the
 plane and which site to land. Our focus in this
 project will be to optimize player choices within
