@@ -1,4 +1,4 @@
-# PlayerKowns Battlegrounds
+# PlayerKnown's Battlegrounds
 
 ## Team Members: Phi Trang, Jacob Tran, Neil Nguyen
 
@@ -48,6 +48,6 @@ Weapons to use based on final circle and distance. Weapons such as the sniper ri
 Popularity of weapons based on the map you’re randomly given
 Areas to drop given smaller clusters
 
-## Video:
+## Video: https://youtu.be/IZa3OVGoPAs
 
 ## Paper:
