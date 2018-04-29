@@ -50,4 +50,4 @@ Areas to drop given smaller clusters
 
 ## Video: https://youtu.be/IZa3OVGoPAs
 
-## Paper:
+## Paper: https://github.com/jatr6994/csci4502/blob/master/02_PlayerKnownsBattlegrounds_Part4.pdf
